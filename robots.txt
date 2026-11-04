@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://serbyy.github.io/firme-romania-top-judete/sitemap.xml
